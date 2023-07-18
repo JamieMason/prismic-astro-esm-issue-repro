@@ -10,6 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@prismicio/react": "2.7.1",
     "astro": "^2.8.3"
   }
 }
